@@ -1,0 +1,80 @@
+.navbar-end {
+    position: relative;
+    right: 70px;
+    top: 15px;
+}
+
+.navbar-end img{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 5px;
+}
+
+
+
+.navbar-end button {
+    position: relative;
+    left: 30px;
+}
+
+.google-logo{
+    position: absolute;
+    top: 29%;
+    left: 39%
+}
+
+.search-bar{
+    position: absolute;
+    top: 46%;
+    left: 31%;
+}
+
+.buttons-n-offer{
+    position: absolute;
+    top: 57%;
+    left:37%;
+}
+
+.buttons-n-offer a{
+    padding-left: 10px;
+}
+
+.buttons-n-offer p{
+    padding-top: 25px;
+    padding-left: 50px;
+}
+
+.a {
+    width: 100%;
+    position: absolute;
+    bottom: 45px;
+    /*border-bottom: 0px solid black;*/
+}
+
+.b {
+    width: 100%;
+
+    position: absolute;
+    bottom: 0px;
+}
+
+.b a{
+
+}
+
+.le{
+    float:left;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+.rig {
+    float:right;
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+a {
+
+}
