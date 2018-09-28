@@ -73,7 +73,7 @@
     position: absolute;
     left:13%;
     grid-template-columns: 1fr;
-    grid-template-rows: 50px repeat(10, 150px);
+    grid-template-rows: 50px repeat(3, 150px) 550px 220px repeat(2, 120px) 180px 130px;
     grid-auto-flow: row;
     /*background-color: red;*/
 }
@@ -97,3 +97,21 @@ a.blue {
     padding-left: 3px;
 }
 
+.images-for-odin a {
+    font-size: 17pt;
+}
+
+.small-a{
+    font-size: 10pt !important;
+}
+
+footer {
+    position: fixed;
+    left: 150px;
+    bottom: 0;
+    background-color: #F7F7F7;
+}
+
+footer li {
+    left: 100px;
+}
